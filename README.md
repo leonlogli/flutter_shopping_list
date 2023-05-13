@@ -1,6 +1,6 @@
 # flutter_shopping_list
 
-A new Flutter project.
+Learn about user inputs, forms and http requests
 
 ## Getting Started
 
